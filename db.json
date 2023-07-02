@@ -1,0 +1,20 @@
+{
+  "productos": [
+    {
+      "nombreProducto": "Café",
+      "precio": 300,
+      "imagen": "https://images.pexels.com/photos/3020919/pexels-photo-3020919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "categoria": "bebida caliente",
+      "descripcion": "alguna descripcion...",
+      "id": 1
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nombreUsuario": "admin",
+      "email": "admin@rollingcode.com",
+      "password": "123456aA"
+    }
+  ]
+}
